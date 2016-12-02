@@ -1,0 +1,28 @@
+.carousel-inner>.item>a>img, .carousel-inner>.item>img, .img-responsive, .thumbnail a>img, .thumbnail>img {
+    /*Drake style. can be removed!*/
+    margin-bottom: 30px;
+}
+
+/*creating banner for each category*/
+.newcaption {
+    width: 360px;
+    bottom: 2.5rem;
+    position: absolute;
+    background: #787878;
+    text-align: center;
+    color: white;
+
+
+/*.thumbnail {
+    border: 0 none;
+    box-shadow: none;
+    margin: 0;
+    padding: 0;
+}*/
+
+.newcaption h4 {
+    color: #fff;
+    font-size: 25px;
+    font-weight: bold;
+    -webkit-font-smoothing: antialiased;
+}
